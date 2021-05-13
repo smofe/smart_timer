@@ -1,8 +1,7 @@
 name: smart_timer
 description: A timer which only runs while the app lifecycle is resumed.
 version: 1.0.0
-author:
-homepage:
+repository: https://github.com/smofe/smart_timer
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
