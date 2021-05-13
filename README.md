@@ -1,3 +1,4 @@
+[![Pub](https://img.shields.io/pub/v/smart_timer.svg)](https://pub.dev/packages/smart_timer)
 # smart_timer
 
 A Timer which runs only while the app's lifecycle is _resumed_. 
