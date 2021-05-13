@@ -1,6 +1,6 @@
 name: smart_timer
-description: A timer which only runs while the app lifecycle is resumed.
-version: 1.0.1
+description: A periodic timer which only runs while the app lifecycle is resumed.
+version: 1.0.2
 repository: https://github.com/smofe/smart_timer
 
 environment:
